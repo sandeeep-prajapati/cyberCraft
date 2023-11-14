@@ -1,0 +1,23 @@
+body{
+    background-image: url('../image/backgroundImage.jpg');
+}
+.mainLine{
+    color: #86A789;
+}
+.inputBox{
+    width: 100%;
+    border-radius: 10px;
+    padding: 3px;
+}
+.myLables{
+    color: #B2C8BA;
+    padding: 10px;
+}
+.formBody{
+    padding: 50px;
+    border-radius: 30px;
+    background-color: rgba(205, 209, 228,0.8);
+}
+.myATag{
+    text-decoration: none;;
+}

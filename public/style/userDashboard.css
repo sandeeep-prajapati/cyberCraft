@@ -1,0 +1,27 @@
+.navImage{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+.navImage img{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+.messaging-section{
+    height: 500px;
+    background-color: #D2E3C8;
+    padding: 10px;
+    border-radius: 10px;
+}
+.message{
+    padding-top: 450px;
+}
+.messageInputBox{
+    padding: 3px;
+    border-radius: 5px;
+}
+.messageBtn{
+    background-color: #86A789;
+    padding: 3px;
+}

@@ -1,0 +1,24 @@
+.mainLine{
+    color: #86A789;
+}
+.navText{
+    padding: 10px;
+}
+.navImage{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.navRow{
+    display: flex;
+}
+.navButton{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.mybutton{
+    border-radius: 5px;
+}
